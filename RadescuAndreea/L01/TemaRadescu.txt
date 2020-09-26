@@ -1,0 +1,31 @@
+Functionalitatile site-ului https://stackoverflow.com/ 
+
+Acest site se bazeaza pe premisa "Construim produse care imputernicesc dezvoltatorii si le conectam la solutii care permit productivitate, crestere si 
+descoperire."
+Este o comunitate deschisa pentru toti programatorii, unde se pot gasi simplu si rapid raspunsuri la o multitudine de intrebari, insa exista si 
+posibilitatea de a pune o intrebare.
+
+Exista o serie de butoane si categorii precum:
+
+	1. Butoane de "Log in" si "Sign up" pentru crearea contului si logarea folosind datele personale (un e-mail valid si o parola).
+	2. Un search bar unde putem scrie cuvinte cheie pentru a gasi mai usor raspunsul pe care il cautam sau functionalitatea care ne intereseaza.
+	3. Categoria "For Teams" potrivita pentru companii, unde dupa alegerea unui plan adecvat si efectuarea platii planului ales, se ofera acces 
+	membriilor echipei la informatiile de care au nevoie pentru a-si face munca oricând, oriunde. Se stocheaza informatii esentiale intr-un singur loc 
+	pentru a reduce timpul pierdut în cautarea cunostintelor necesare.
+	4. Categoria "Products", in care sunt incluse 6 subcategorii (Stack Overflow - unde se gasesc intrebari si raspunsuri publice, Stack Overflow for 
+	Teams - unde dezvoltatorii impartasesc cunostinte private cu colegii, Jobs - oportunitati de gasire a unui job, Talent - se ocupa cu angajarea, 
+	recrutarea si solutiile de branding ale angajatorilor pentru echipele de tehnologie, Advertising - pentru a lua legatura cu dezvoltatori din 
+	intreaga lume).
+	5. Butonul "About the company" - descriere generala a platformei.
+	6. Un buton-pictograma cu 3 linii orizontale unde Home - ne duce la pagina principala, mai gasim Tags si Users, pentru filtrarea rezultatelor si 
+	gasirea utilizatorilor, Jobs si Companies pentru gasirea joburilor si a companiilor cu ajutorul unor filtre (de exemplu despre tehnologia cautata,
+	locatie, interval de salariu, daca se lucreaza remote sau nu etc).
+	7. Butonul "For developers" care ne conduce la Public Q&A (unde gasim intrebari si raspunsuri), Private Q&A (pentru impartasirea cunostintelor in 
+	mod privat cu colegii de serviciu, folosind motorul de intrebari si raspunsuri) si Browse Jobs (gasirea de joburi). In cadrul butonului Public Q&A
+	avem butonul "Ask Question" care ne permite sa adresam comunitatii intrebari, cu conditia de a fi logat inainte si filtrele "Newest", "Active", 
+	"Bountied", "Unanswered", "More" care afiseaza intrebarile dupa criteriul selectat.
+	8. Butonul "For businesses" care conduce la functionalitati descrise la punctul 3.
+
+
+	
+
