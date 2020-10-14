@@ -1,0 +1,28 @@
+Bounded context: “Question context”
+Workflow: “Add question” 
+Triggered by : “User question posting request received”
+Input : “Question form” (tags, title, etc)
+Output: ”New question accepted and posted” event
+Side effects: “Confirmation via email”
+
+Workflow: “Add new question”
+Input: “Question form”
+Output: “Question accepted” event or “Invalid form question” 
+
+//step 1
+Do validate question
+If question is invalid then Stop
+
+//step 2
+Send notification to confirm the question
+
+//step 3
+Return “Question posted” event
+
+Substep : “Validate new question”
+Input: “Unvalidated new question”
+Output: “Validated new question”
+Dependencies: ML (text validator)
+Analyze the question
+If the result is accepted then return validated
+Else return reject message and propose for manual review
